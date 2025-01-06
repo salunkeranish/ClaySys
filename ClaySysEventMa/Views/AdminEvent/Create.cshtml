@@ -1,0 +1,29 @@
+﻿@model ClaySysEventMa.Models.Event
+&nbsp;
+&nbsp;
+<h2>Create Event</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Date"></label>
+        <input asp-for="Date" class="form-control" type="date" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Location"></label>
+        <input asp-for="Location" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="Image">Event Image:</label>
+        <input type="file" id="Image" name="Image" class="form-control" />
+
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

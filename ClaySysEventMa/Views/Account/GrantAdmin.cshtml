@@ -1,0 +1,34 @@
+﻿@model IEnumerable<ClaySysEventMa.Models.User>
+&nbsp;
+&nbsp;
+<h2>Grant Admin Privileges</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email Address</th>
+            <th>Role</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.EmailAddress</td>
+                <td>@user.Role</td>
+                <td>
+                    @if (user.Role == "User")
+                    {
+                        <form asp-action="GrantAdmin" method="post">
+                            <input type="hidden" name="userId" value="@user.Id" />
+                            <button type="submit" class="btn btn-primary">Grant Admin</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

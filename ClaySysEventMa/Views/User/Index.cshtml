@@ -1,0 +1,60 @@
+﻿@model ClaySysEventMa.Models.UserDashboardViewModel
+&nbsp;
+&nbsp;
+<h2>User Dashboard</h2>
+
+<h3>Available Events</h3>
+@if (Model.Events != null && Model.Events.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var eventItem in Model.Events)
+            {
+                <tr>
+                    <td>@eventItem.Name</td>
+                    <td>@eventItem.Date.ToShortDateString()</td>
+                    <td>
+                        <a asp-action="RegisterForEvent" asp-route-id="@eventItem.Id" class="btn btn-primary">Register</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No events available.</p>
+}
+
+<h3>My Registered Events</h3>
+@if (Model.Registrations != null && Model.Registrations.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var registrationItem in Model.Registrations)
+            {
+                <tr>
+                    <td>@registrationItem.Event.Name</td>
+                    <td>@registrationItem.Event.Date.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No registered events.</p>
+}

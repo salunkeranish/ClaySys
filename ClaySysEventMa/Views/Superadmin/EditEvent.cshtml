@@ -1,0 +1,42 @@
+﻿@model ClaySysEventMa.Models.Event
+&nbsp;
+&nbsp;
+<h2>Edit Event</h2>
+
+<form asp-action="EditEvent" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Date"></label>
+        <input asp-for="Date" class="form-control" type="date" />
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Location"></label>
+        <input asp-for="Location" class="form-control" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+    <div class="form-group visually-hidden">
+        <label asp-for="ImageBase64"></label>
+        <input asp-for="ImageBase64" class="form-control" value="Ranish" />
+        <span asp-validation-for="ImageBase64" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Image">Event Image:</label>
+        <input type="file" id="Image" name="Image" class="form-control" />
+        <span asp-validation-for="ImageBase64" class="text-danger"></span> <!-- Ensure validation error is shown -->
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

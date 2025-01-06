@@ -1,0 +1,56 @@
+﻿@model ClaySysEventMa.Models.SuperadminViewModel
+&nbsp;
+&nbsp;
+<h2>Admin Dashboard</h2>
+
+<h3>Users</h3>
+<div class="row">
+    @foreach (var userItem in Model.Users)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+                <div class="card-body bg-dark">
+                    <h5 class="card-title">@userItem.Username</h5>
+                    <p class="card-text"><strong>Email:</strong> @userItem.EmailAddress</p>
+                    <p class="card-text"><strong>Role:</strong> @userItem.Role</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <!-- Show Edit and Delete buttons only if the role is "User" -->
+                        @{
+                            if (userItem.Role == "User")
+                            {
+                                <a asp-action="EditUser" asp-route-id="@userItem.Id" class="btn btn-secondary">Edit</a>
+                                <a asp-action="DeleteUser" asp-route-id="@userItem.Id" class="btn btn-danger">Delete</a>
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+<h3>Events</h3>
+<p>
+    <a asp-action="CreateEvent" class="btn btn-primary">Create Event</a>
+</p>
+<div class="row">
+    @foreach (var eventItem in Model.Events)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+                <div class="event-image-container">
+                    <img src="@(string.IsNullOrEmpty(eventItem.ImageBase64) ? "path/to/placeholder-image.jpg" : $"data:image/png;base64,{eventItem.ImageBase64}")" class="card-img-top" alt="Event Image" style="height: 200px; object-fit: cover;" />
+                </div>
+                <div class="card-body bg-dark">
+                    <h5 class="card-title">@eventItem.Name</h5>
+                    <p class="card-text"><strong>Date:</strong> @eventItem.Date.ToShortDateString()</p>
+                    <p class="card-text"><strong>Description:</strong>@eventItem.Description </p> <p class="card-text">
+                        <strong>Location:</strong> @eventItem.Location
+                    <div class="d-flex justify-content-between align-items-center">
+                        <a asp-action="EditEvent" asp-route-id="@eventItem.Id" class="btn btn-secondary">Edit</a>
+                        <a asp-action="DeleteEvent" asp-route-id="@eventItem.Id" class="btn btn-danger">Delete</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

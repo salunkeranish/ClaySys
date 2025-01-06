@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ClaySysEventMa.Models.Registration>
+&nbsp;
+&nbsp;
+<h3>Registrations</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>User</th>
+            <th>Event</th>
+            <th>Registration date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var registrationItem in Model)
+        {
+            <tr>
+                <td>@registrationItem.User.Username</td>
+                <td>@registrationItem.Event.Name</td>
+                <td>@registrationItem.RegistrationDate.ToShortDateString()</td>
+                <td> <a asp-action="RemoveRegistration" asp-route-id="@registrationItem.Id" class="btn btn-danger">Remove</a> </td>
+            </tr>
+        }
+    </tbody>
+</table>

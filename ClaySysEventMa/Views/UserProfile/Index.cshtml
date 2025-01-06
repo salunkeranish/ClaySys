@@ -1,0 +1,48 @@
+﻿@model ClaySysEventMa.Models.User
+&nbsp;
+&nbsp;
+<h2>My Profile</h2>
+
+<div class="form-group">
+    <label>First name</label>
+    <p>@Model.FirstName</p>
+</div>
+<div class="form-group">
+    <label>Last name</label>
+    <p>@Model.LastName</p>
+</div>
+<div class="form-group">
+    <label>Date of birth</label>
+    <p>@Model.DateOfBirth.ToShortDateString()</p>
+</div>
+<div class="form-group">
+    <label>Gender</label>
+    <p>@Model.Gender</p>
+</div>
+<div class="form-group">
+    <label>Phone number</label>
+    <p>@Model.PhoneNumber</p>
+</div>
+<div class="form-group">
+    <label>Email </label>
+    <p>@Model.EmailAddress</p>
+</div>
+<div class="form-group">
+    <label>Address</label>
+    <p>@Model.Address</p>
+</div>
+<div class="form-group">
+    <label>State</label>
+    <p>@Model.State</p>
+</div>
+<div class="form-group">
+    <label>City</label>
+    <p>@Model.City</p>
+</div>
+<div class="form-group">
+    <label>Username</label>
+    <p>@Model.Username</p>
+</div>
+<div>
+    <a asp-action="EditProfile" class="btn btn-primary">Edit Profile</a>
+</div>

@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClaySysEventMa.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ClaySysEventMa.4mzm6qpibi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\Images\\ClaySys-Campus-Solar-Panels-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\ClaySys-Campus-Solar-Panels-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\Images\\IMG_20200110_144428-768x576.jpg",
+      "PackagePath": "staticwebassets\\Images\\IMG_20200110_144428-768x576.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\Images\\OIP.jpg",
+      "PackagePath": "staticwebassets\\Images\\OIP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\Images\\claysys-logo (1).webp",
+      "PackagePath": "staticwebassets\\Images\\claysys-logo (1).webp"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\Images\\dan.jpg",
+      "PackagePath": "staticwebassets\\Images\\dan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\Images\\img01.jpg",
+      "PackagePath": "staticwebassets\\Images\\img01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\Images\\img03.jpg",
+      "PackagePath": "staticwebassets\\Images\\img03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\Images\\pngtree-g20-summit-simple-business-background-image_232743.jpg",
+      "PackagePath": "staticwebassets\\Images\\pngtree-g20-summit-simple-business-background-image_232743.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\Images\\wp6056738.jpg",
+      "PackagePath": "staticwebassets\\Images\\wp6056738.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ClaySysEventMa.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ClaySysEventMa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ClaySysEventMa.props",
+      "PackagePath": "build\\ClaySysEventMa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ClaySysEventMa.props",
+      "PackagePath": "buildMultiTargeting\\ClaySysEventMa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ClaySysEventMa.props",
+      "PackagePath": "buildTransitive\\ClaySysEventMa.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

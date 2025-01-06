@@ -1,0 +1,36 @@
+﻿@model ClaySysEventMa.Models.LoginViewModel
+&nbsp;
+&nbsp;
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body bg-dark">
+                    <h2 class="text-center">Login</h2>
+                    <form asp-action="Login" method="post">
+                        <div class="form-group">
+                            <label asp-for="Username"></label>
+                            <input asp-for="Username" class="form-control" id="username" />
+                            <span id="username-error" class="text-danger"></span>
+                            <span asp-validation-for="Username" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Password"></label>
+                            <input asp-for="Password" class="form-control" type="password" id="password" />
+                            <span id="password-error" class="text-danger"></span>
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        &nbsp;
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary">Login</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+}

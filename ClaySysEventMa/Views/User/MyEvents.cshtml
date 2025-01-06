@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ClaySysEventMa.Models.Registration>
+&nbsp;
+&nbsp;
+<h2>My Registered Events</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Event Name</th>
+            <th>Event Date</th>
+            <th>Location</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var registration in Model)
+        {
+            <tr>
+                <td>@registration.Event.Name</td>
+                <td>@registration.Event.Date.ToShortDateString()</td>
+                <td>@registration.Event.Location</td>
+                <td>
+                    <form asp-action="UnregisterFromEvent" method="post">
+                        <input type="hidden" name="registrationId" value="@registration.Id" />
+                        <button type="submit" class="btn btn-danger">Unregister</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

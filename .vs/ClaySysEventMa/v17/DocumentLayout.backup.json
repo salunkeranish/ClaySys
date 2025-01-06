@@ -1,0 +1,1026 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\userevent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\userevent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\controllers\\usereventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\controllers\\usereventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\models\\userdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\models\\userdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\admin\\removeregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\admin\\removeregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\adminevent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\adminevent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\admin\\registeredusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\admin\\registeredusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\adminevent\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\adminevent\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\user\\myevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\user\\myevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\user\\viewevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\user\\viewevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\controllers\\superadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\controllers\\superadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\models\\superadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\models\\superadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\superadmin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\superadmin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\superadmin\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\superadmin\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\superadmin\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\superadmin\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\superadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\superadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\models\\contactformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\models\\contactformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\admin\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\admin\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\admin\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\admin\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\userprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\userprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\userprofile\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\userprofile\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\user\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\user\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\user\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\user\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\superadmin\\removeregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\superadmin\\removeregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\superadmin\\registeredusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\superadmin\\registeredusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\superadmin\\grantadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\superadmin\\grantadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\superadmin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\superadmin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\superadmin\\deleteevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\superadmin\\deleteevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\adminevent\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\adminevent\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\adminevent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\adminevent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\admin\\deleteevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\admin\\deleteevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\account\\grantadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\account\\grantadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\controllers\\admineventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\controllers\\admineventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|c:\\users\\ranis\\source\\repos\\claysyseventma\\claysyseventma\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB3D35E-4060-41C3-9A2E-ED45C3E54538}|ClaySysEventMa\\ClaySysEventMa.csproj|solutionrelative:claysyseventma\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:24:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserEventController.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\UserEventController.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Controllers\\UserEventController.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\UserEventController.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Controllers\\UserEventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwv4wAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:24:32.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:24:48.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\UserEvent\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\UserEvent\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\UserEvent\\Index.cshtml*",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\UserEvent\\Index.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:13:47.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\UserDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Models\\UserDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\UserDashboardViewModel.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Models\\UserDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:26:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoveRegistration.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\RemoveRegistration.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Admin\\RemoveRegistration.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\RemoveRegistration.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Admin\\RemoveRegistration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:11:31.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\Registration.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Models\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:25:58.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAQwIIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:22:53.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\AdminEvent\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\AdminEvent\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\AdminEvent\\Index.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\AdminEvent\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:11:55.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisteredUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\RegisteredUsers.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Admin\\RegisteredUsers.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\RegisteredUsers.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Admin\\RegisteredUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:11:26.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\AdminEvent\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\AdminEvent\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\AdminEvent\\Delete.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\AdminEvent\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:11:44.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\User\\MyEvents.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\User\\MyEvents.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\User\\MyEvents.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\User\\MyEvents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:13:34.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\User\\ViewEvents.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\User\\ViewEvents.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\User\\ViewEvents.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\User\\ViewEvents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:13:39.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:13:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwIQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:20:52.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Data\\DataAccess.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Data\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Data\\DataAccess.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Data\\DataAccess.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAcwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:21:11.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAD8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:10:45.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SuperadminController.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\SuperadminController.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Controllers\\SuperadminController.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\SuperadminController.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Controllers\\SuperadminController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAQwKMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:23:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SuperadminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\SuperadminViewModel.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Models\\SuperadminViewModel.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\SuperadminViewModel.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Models\\SuperadminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:26:09.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Superadmin\\DeleteUser.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\DeleteUser.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Superadmin\\DeleteUser.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:12:43.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\EditEvent.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Superadmin\\EditEvent.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\EditEvent.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Superadmin\\EditEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:12:49.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\CreateEvent.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Superadmin\\CreateEvent.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\CreateEvent.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Superadmin\\CreateEvent.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T18:19:34.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Superadmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\Index.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Superadmin\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:13:03.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\Event.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:19:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\appsettings.json",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\appsettings.json",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\appsettings.json",
+              "RelativeToolTip": "ClaySysEventMa\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T18:53:31.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContactFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\ContactFormModel.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Models\\ContactFormModel.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\ContactFormModel.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Models\\ContactFormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:25:24.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:25:14.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:25:49.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\User.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Models\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:20:34.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Program.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Program.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Program.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:54:39.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\EditEvent.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Admin\\EditEvent.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\EditEvent.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Admin\\EditEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:11:11.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\CreateEvent.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Admin\\CreateEvent.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\CreateEvent.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Admin\\CreateEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:10:53.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ClaySysEventMa\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-27T06:20:59.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:10:20.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\UserProfile\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\UserProfile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\UserProfile\\Index.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\UserProfile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:14:03.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\UserProfile\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\UserProfile\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\UserProfile\\EditProfile.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\UserProfile\\EditProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:13:58.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\User\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\User\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\User\\EditProfile.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\User\\EditProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:13:23.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\User\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\User\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\User\\ChangePassword.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\User\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:20:48.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisteredUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\RegisteredUsers.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Superadmin\\RegisteredUsers.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\RegisteredUsers.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Superadmin\\RegisteredUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:13:08.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GrantAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\GrantAdmin.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Superadmin\\GrantAdmin.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\GrantAdmin.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Superadmin\\GrantAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:12:58.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RemoveRegistration.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\RemoveRegistration.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Superadmin\\RemoveRegistration.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\RemoveRegistration.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Superadmin\\RemoveRegistration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:13:12.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Superadmin\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\EditUser.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Superadmin\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:12:53.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DeleteEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\DeleteEvent.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Superadmin\\DeleteEvent.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Superadmin\\DeleteEvent.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Superadmin\\DeleteEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:12:37.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:19:31.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:19:12.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:19:19.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\AdminEvent\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\AdminEvent\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\AdminEvent\\Edit.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\AdminEvent\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:11:49.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:12:07.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:15:20.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\AdminEvent\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\AdminEvent\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\AdminEvent\\Create.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\AdminEvent\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:11:40.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:11:16.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:11:22.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Admin\\DeleteUser.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Admin\\DeleteUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:11:04.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DeleteEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\DeleteEvent.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Admin\\DeleteEvent.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Admin\\DeleteEvent.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Admin\\DeleteEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:10:58.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GrantAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Account\\GrantAdmin.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\Account\\GrantAdmin.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\Account\\GrantAdmin.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\Account\\GrantAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:09:31.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:23:28.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AdminEventController.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\AdminEventController.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Controllers\\AdminEventController.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Controllers\\AdminEventController.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Controllers\\AdminEventController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAuwMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:23:15.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ClaySysEventMa\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:25:35.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ClaySysEventMa\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-25T19:18:20.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "ClaySysEventMa\\wwwroot\\css\\custom.css",
+              "ViewState": "AgIAACUAAAAAAAAAAADwv1MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-25T19:18:00.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ClaySysEventMa\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ranis\\source\\repos\\ClaySysEventMa\\ClaySysEventMa\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ClaySysEventMa\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:16:01.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

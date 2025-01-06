@@ -1,0 +1,17 @@
+﻿@model ClaySysEventMa.Models.Registration
+&nbsp;
+&nbsp;
+<h2>Remove Registration</h2>
+
+<h3>Are you sure you want to remove this registration?</h3>
+<div>
+    <h4>User: @Model.User.Username</h4>
+    <p>Event: @Model.Event.Name</p>
+    <p>Registration Date: @Model.RegistrationDate.ToShortDateString()</p>
+</div>
+
+<form asp-action="RemoveRegistration" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Remove</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

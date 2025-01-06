@@ -1,0 +1,68 @@
+﻿@model ClaySysEventMa.Models.UserDashboardViewModel
+&nbsp;
+&nbsp;
+<h2>Event Dashboard</h2>
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-warning">
+        @ViewBag.Message
+    </div>
+}
+
+<h3>Available Events</h3>
+@if (Model.Events != null && Model.Events.Any())
+{
+    <div class="row">
+        @foreach (var eventItem in Model.Events)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm bg-dark text-white">
+                    @* Display the event image if it exists *@
+                    <div class="event-image-container">
+                        <img src="@(string.IsNullOrEmpty(eventItem.ImageBase64) ? "path/to/placeholder-image.jpg" : $"data:image/png;base64,{eventItem.ImageBase64}")" class="card-img-top" alt="Event Image" style="height: 200px; object-fit: cover;" />
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@eventItem.Name</h5>
+                        <p class="card-text"><strong>Date:</strong> @eventItem.Date.ToShortDateString()</p>
+                        <p class="card-text"><strong>Location:</strong>@eventItem.Location</p>
+                        <p class="card-text"><strong>Description:</strong>@eventItem.Description</p>
+                        <form asp-action="RegisterForEvent" method="post">
+                            <input type="hidden" name="eventId" value="@eventItem.Id" />
+                            <button type="submit" class="btn btn-primary">Register</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No events available.</p>
+}
+
+<h3>My Registered Events</h3>
+@if (Model.Registrations != null && Model.Registrations.Any())
+{
+    <div class="row">
+        @foreach (var registrationItem in Model.Registrations)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm bg-dark text-white">
+                   
+                    <div class="card-body">
+                        <h5 class="card-title">@registrationItem.Event.Name</h5>
+                      
+                       
+                      
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No registered events.</p>
+}
